@@ -6,7 +6,7 @@
 	<h1>Hello and Welcome to Lidor's World!</h1>
 	<h2>DEVOPS-ACADEMY - DEVOPS COURSE</h2>
 	<p>
-		It is now  Jenkins Pipeline-Jobs version 3
+		It is now  Jenkins Pipeline-Jobs version 4
 		<%= new java.util.Date() %></p>
 	<p>
 		You are coming from 
